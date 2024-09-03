@@ -1,0 +1,234 @@
+{
+  "heading": "HCF and LCM",
+  "topics": [
+    {
+      "heading": "HCF and LCM",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "The product of two numbers is 2310 and their HCF is 7. What will be the LCM of the number?",
+            "options": [
+                "340",
+                "320",
+                "330",
+                "310"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 2,
+            "question": "During their exploration at the picnic, students were asked to find the smallest number that, when reduced by 3, becomes divisible by 18, 36, and 54.",
+            "options": [
+                "108",
+                "111",
+                "110",
+                "106"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 3,
+            "question": "During their picnic planning, the students discovered that the HCF and LCM of the number of chairs and tables needed were 20 and 800 respectively. If the number of chairs required was 100, what was the number of tables needed?",
+            "options": [
+                "140",
+                "160",
+                "260",
+                "240"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 4,
+            "question": "Mr. Johnson wants to find the length of the tape for packing boxes. What is the greatest length of a tape whose whole length can be used to measure the lengths 72 cm and 120 cm exactly?",
+            "options": [
+                "24",
+                "26",
+                "28",
+                "32"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 5,
+            "question": "Mr. Johnson gave them a puzzle to solve that says: find the least number which is exactly divisible by 24, 30, 54, and 75.",
+            "options": [
+                "5440",
+                "5400",
+                "5240",
+                "5140"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 6,
+            "question": "In the picnic spot exploration they learned that the HCF of the two numbers is 45 and their LCM is 720. If one of the numbers is 180, what is the other number?",
+            "options": [
+                "180",
+                "150",
+                "140",
+                "160"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 7,
+            "question": "Mr. Johnson brought 121 sandwiches and 220 juice boxes to the picnic. If he wants to distribute them into packs with the same number of sandwiches and juice boxes in each pack, what is the maximum number of packs he can create without any leftovers?",
+            "options": [
+                "11",
+                "13",
+                "19",
+                "33"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 8,
+            "question": "While travelling to the picnic spot by bus, there were two traffic lights on a street which changed every 50 seconds and 75 seconds. respectively. If they both change at the same time at 8:00 AM, after how many seconds will they change together again?",
+            "options": [
+                "120 seconds",
+                "150 seconds",
+                "216 seconds",
+                "360 seconds"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 9,
+            "question": "During the picnic games, Team Blue scored 98 points and Team Red scored 147 points in the tug-of-war competition. If each team's points need to be divided into the largest possible equal-sized groups for analysis, how many points will each group contain?",
+            "options": [
+                "39",
+                "38",
+                "49",
+                "48"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 10,
+            "question": "Three traffic lights on another street change every 18 seconds, 24 seconds, and 36 seconds respectively. If they all change together at a certain time, how many seconds will it take for all three lights to change together again?",
+            "options": [
+                "72 seconds",
+                "75 seconds",
+                "62 seconds",
+                "60 seconds"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 11,
+            "question": "Mr. Johnson brought 55 balloons and 90 kites for the students. He wants to divide them into the smallest possible equal groups without any balloons or kites left over. How many items will each group contain?",
+            "options": [
+                "4",
+                "7",
+                "9",
+                "5"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 12,
+            "question": "During the picnic games, Team Blue scored 98 points and Team Red scored 147 points in the tug-of-war competition. If each team's points need to be divided into the largest possible equal-sized groups for analysis, how many points will each group contain?",
+            "options": [
+                "39",
+                "38",
+                "49",
+                "48"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 13,
+            "question": "During the picnic, the students found two baskets of apples and oranges. The apples were packed in groups of 60 and the oranges in groups of 84. How many apples and oranges can be packed together in the largest possible equal-sized groups without leftover fruits?",
+            "options": [
+                "18",
+                "14",
+                "12",
+                "20"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 14,
+            "question": "During the picnic Mr. Johnson asked students to find the least number which is exactly divisible by 20, 30, and 50.",
+            "options": [
+                "310",
+                "200",
+                "300",
+                "220"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 15,
+            "question": "The students discovered two types of rare plants that bloom every 364 days and 728 days respectively. If both plants bloom today, in how many days will they bloom together again?",
+            "options": [
+                "728 days",
+                "995 days",
+                "560 days",
+                "925 days"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 16,
+            "question": "The students want to arrange 174 pencils and 522 erasers into the largest possible equal-sized groups for the picnic activities. How many items will each group contain?",
+            "options": [
+                "119",
+                "121",
+                "179",
+                "174"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 17,
+            "question": "In the egg and spoon race, Participant A completed 84 rounds and Participant B completed 112 rounds. If the rounds need to be grouped into the largest possible equal-sized groups for analysis, how many rounds will each group contain?",
+            "options": [
+                "21",
+                "28",
+                "25",
+                "36"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 18,
+            "question": "Mr. Johnson plans to create identical packs of art supplies for the students. He has 100 crayons and 225 markers. What is the greatest number of identical packs he can make?",
+            "options": [
+                "69",
+                "25",
+                "29",
+                "39"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "Mr. Johnson brought 32 cupcakes and 72 cookies. He wants to make treat bags with the same number of cupcakes and cookies in each. What is the maximum number of treat bags he can make without any leftover items?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 20,
+            "question": "During a team-building exercise, the students formed teams with 189 boys and 378 girls. If each team must have the same number of boys and girls, what is the largest possible number of students in each team?",
+            "options": [
+                "187",
+                "128",
+                "127",
+                "189"
+            ],
+            "answer": 3
+        }
+    ]
+    
+    
+    
+    
+    }
+  ]
+}
